@@ -339,6 +339,9 @@ header h1 span {
   z-index: 1;
   position: relative;
 }
+.rg__text--copy p {
+  margin: 0;
+}
 .rg__text--copy,
 .stage__text p {
   font-weight: 300;
